@@ -41,7 +41,7 @@ pelo browser
 
 E como eu disse, esses textos pré-formtados são super usados pra escrever código.
 
-Ex. javascript
+Ex. javascript ❤ ❤ ❤
 
 ```
 let nome = "gustavo"
